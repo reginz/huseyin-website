@@ -7,7 +7,7 @@ module.exports = {
       summary: ``,
     },
     description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://renyuanz.github.io/leonids`,
+    siteUrl: `https://vibrant-booth-cdc8bd.netlify.app/`,
     social: {
       twitter: `huseyinevecen`,
     },
